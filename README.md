@@ -1,10 +1,9 @@
-# Portugal Real Estate Data Analysis Project
+## Portugal Real Estate Data Analysis Project
 
 ## Project Overview
 
 This project focuses on **data cleaning, exploratory data analysis (EDA), and business insight generation** using a large-scale real estate dataset from Portugal.  
 The analysis supports **data-driven decision-making** to help a real estate company achieve a **10% increase in property sales within 6 months**.
----
 
 ## Business Objective
 
