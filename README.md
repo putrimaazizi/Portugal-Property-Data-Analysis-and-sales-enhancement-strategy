@@ -95,7 +95,7 @@ Slides: https://docs.google.com/presentation/d/1KpxMMYi_yI8ObgFf5tF6B_SKTdm_vHGO
 
 ---
 
-## Role & Skill Highlight (Portfolio Context)
+## Role & Skill Highlight
 
 This project demonstrates skills in:
 - Data Cleaning & Transformation
